@@ -1,0 +1,1 @@
+En este repocitorio se colocaran los ejercicios realizados por Francisco Hector Sofía en el lenguaje de programacion JavaScript
